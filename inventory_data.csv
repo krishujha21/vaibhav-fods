@@ -1,0 +1,61 @@
+Product_ID,Product_Name,Category,Supplier,Stock_Quantity,Reorder_Level,Unit_Cost
+P5048,Hair Oil,Personal Care,Glow Brands,221,68,250.12
+P5019,Tea Powder 500g,Beverages,CoolSip Traders,194,22,196.28
+P5057,Aluminium Foil,Household,Annapurna Wholesale,194,66,184.99
+P5014,Coffee Powder 200g,Beverages,CoolSip Traders,29,34,246.83
+P5038,Red Chilli Powder,Grocery,FreshFarm Agro,199,72,226.35
+P5024,Cream Crackers,Snacks,Global Beverages,151,68,110.3
+P5007,Ghee 500ml,Dairy,FreshFarm Agro,146,54,416.33
+P5029,Dark Chocolate,Snacks,CrunchTime Foods,176,20,158.59
+P5013,Green Tea Pack,Beverages,CoolSip Traders,131,35,18.95
+P5034,Toor Dal 1kg,Grocery,Annapurna Wholesale,17,75,577.54
+P5026,Namkeen Mix,Snacks,CrunchTime Foods,248,58,84.85
+P5032,Wheat Flour 5kg,Grocery,FreshFarm Agro,249,76,115.91
+P5045,Body Lotion,Personal Care,HomeCare Suppliers,200,51,70.79
+P5005,Cheese Slices,Dairy,Amul Distributors,82,68,147.43
+P5036,Salt 1kg,Grocery,Annapurna Wholesale,255,54,174.68
+P5010,Buttermilk 200ml,Dairy,Amul Distributors,34,29,37.84
+P5053,Floor Cleaner,Household,Annapurna Wholesale,246,38,152.53
+P5055,Garbage Bags,Household,HomeCare Suppliers,118,33,218.32
+P5031,Basmati Rice 5kg,Grocery,Annapurna Wholesale,220,70,589.95
+P5060,Air Freshener,Household,Annapurna Wholesale,46,24,381.6
+P5046,Hand Wash,Personal Care,HomeCare Suppliers,110,74,31.4
+P5017,Mango Drink,Beverages,Global Beverages,73,52,185.78
+P5016,Energy Drink,Beverages,Global Beverages,162,42,66.74
+P5051,Dish Wash Liquid,Household,HomeCare Suppliers,62,33,161.17
+P5012,Cola 2L,Beverages,Global Beverages,214,47,187.23
+P5028,Nacho Chips,Snacks,Global Beverages,108,44,46.55
+P5008,Flavoured Yogurt,Dairy,FreshFarm Agro,183,79,514.48
+P5059,Scrub Pad,Household,HomeCare Suppliers,240,62,186.25
+P5049,Toothbrush,Personal Care,HomeCare Suppliers,8,78,244.12
+P5035,Sunflower Oil 1L,Grocery,FreshFarm Agro,168,78,260.18
+P5050,Shaving Foam,Personal Care,HomeCare Suppliers,247,57,225.98
+P5056,Tissue Roll,Household,Annapurna Wholesale,247,78,361.2
+P5006,Paneer 200g,Dairy,Amul Distributors,257,36,272.27
+P5047,Deodorant,Personal Care,HomeCare Suppliers,197,54,66.93
+P5002,Toned Milk 500ml,Dairy,Amul Distributors,217,73,170.08
+P5037,Turmeric Powder,Grocery,FreshFarm Agro,14,62,317.33
+P5003,Curd 400g,Dairy,FreshFarm Agro,227,37,430.61
+P5023,Choco Biscuits,Snacks,CrunchTime Foods,43,33,74.51
+P5041,Bath Soap,Personal Care,Glow Brands,251,44,145.62
+P5018,Lemon Soda,Beverages,Global Beverages,244,72,229.31
+P5027,Cookies Pack,Snacks,CrunchTime Foods,66,41,26.44
+P5015,Mineral Water 1L,Beverages,Global Beverages,56,72,16.25
+P5040,Poha 500g,Grocery,Annapurna Wholesale,209,21,101.81
+P5030,Wafer Rolls,Snacks,Global Beverages,28,38,32.37
+P5021,Potato Chips,Snacks,Global Beverages,97,61,20.07
+P5033,Sugar 1kg,Grocery,FreshFarm Agro,54,53,370.2
+P5039,Cooking Oil 5L,Grocery,Annapurna Wholesale,196,46,257.62
+P5054,Toilet Cleaner,Household,HomeCare Suppliers,40,54,382.01
+P5052,Detergent Powder 1kg,Household,HomeCare Suppliers,32,31,154.77
+P5042,Shampoo 340ml,Personal Care,HomeCare Suppliers,25,59,265.66
+P5044,Face Wash,Personal Care,Glow Brands,225,55,170.16
+P5011,Orange Juice 1L,Beverages,Global Beverages,136,28,322.25
+P5020,Coconut Water,Beverages,Global Beverages,190,25,306.9
+P5022,Salted Peanuts,Snacks,CrunchTime Foods,173,55,64.92
+P5001,Full Cream Milk 1L,Dairy,FreshFarm Agro,164,76,407.84
+P5009,Cream 200ml,Dairy,FreshFarm Agro,59,47,326.27
+P5004,Butter 100g,Dairy,FreshFarm Agro,38,20,253.97
+P5058,Phenyl 1L,Household,Annapurna Wholesale,246,54,179.37
+P5025,Popcorn Pack,Snacks,CrunchTime Foods,159,46,125.0
+P5043,Toothpaste 150g,Personal Care,Glow Brands,92,60,214.59
